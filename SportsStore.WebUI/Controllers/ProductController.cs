@@ -1,7 +1,7 @@
-﻿using System.Linq;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 using SportsStore.WebUI.Models;
+using System.Linq;
 
 namespace SportsStore.WebUI.Controllers
 {
